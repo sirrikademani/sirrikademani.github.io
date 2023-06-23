@@ -3,11 +3,9 @@ logo: "/images/logosiri.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data-driven strategist and analytics professional with a passion for leveraging insights to drive strategic decision-making and fuel business growth. 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/sirimk/">View My LinkedIn Profile</a> 
-  <a href="https://public.tableau.com/app/profile/siri1111">View My Tableau Public Profile</a>
-  <a href="https://github.com/sirrikademani">View My Github Profile</a> 
+  <a href="https://www.linkedin.com/in/sirimk/">View My LinkedIn Profile</a><br>
+  <a href="https://public.tableau.com/app/profile/siri1111">View My Tableau Public Profile</a><br>
+  <a href="https://github.com/sirrikademani">View My Github Profile</a><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
