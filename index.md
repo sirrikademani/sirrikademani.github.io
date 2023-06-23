@@ -5,7 +5,7 @@
 ### Tableau Sales Dashboards
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/AXON CUSTOMER NPS.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
