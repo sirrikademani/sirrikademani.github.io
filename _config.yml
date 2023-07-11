@@ -6,6 +6,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/sirimk/">View My LinkedIn Profile</a><br>
   <a href="https://public.tableau.com/app/profile/siri1111">View My Tableau Public Profile</a><br>
 
+  <footer>
+  <ul class="icons">
+    <li><a href="https://public.tableau.com/app/profile/siri1111" class="icon solid fa-chart-bar"><span class="label">Tableau</span></a></li>
+    <li><a href="https://github.com/sirrikademani" class="icon brands fa-github"><span class="label">Github</span></a></li>
+    <li><a href="https://www.linkedin.com/in/siri-kademani-476664a2/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+    <li><a href="https://instagram.com/walkofart19?igshid=Y2I2MzMwZWM3ZA==" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+  </ul>
+  </footer>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
